@@ -7,3 +7,8 @@ Součástí jsou nahrávky generované různými experimentálními přístupy, 
 
 
 Repozitář je určen pouze jako doplňkový materiál k diplomové práci a slouží pro poslechové porovnání vybraných výsledků.
+
+Dále byl vytvořen webový server přístupný z vnitřní sítě ZČU na adrese: 
+http://147.228.173.41/
+
+kde je možné vybrané ukázky poslechnout bez nutnosti stahování.
